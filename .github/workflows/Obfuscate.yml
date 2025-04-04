@@ -7,8 +7,12 @@ on:
   schedule:
         - cron: "0 1 * * *"
 
+#吃饭了，123
+
 permissions:
   contents: write
+
+#吃饭了，没有呀
 
 jobs:
   build:
